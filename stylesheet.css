@@ -170,4 +170,9 @@ span.highlight {
   .newsitem .date {
     display: inline-block;
   }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
 }
