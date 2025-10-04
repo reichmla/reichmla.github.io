@@ -154,3 +154,20 @@ span.highlight {
 .subtitle {
   color: #5c5c5c;
 }
+
+@media (max-width: 850px) {
+  .profilepicture {
+    margin: 0 auto;
+  }
+
+  td {
+    width: 100% !important;
+    display: block !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .newsitem .date {
+    display: inline-block;
+  }
+}
